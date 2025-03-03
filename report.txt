@@ -52,22 +52,6 @@ During a ClamAV scan on an old hard drive, multiple malware threats were detecte
 
 ---
 
-### **Recommended Actions**
-1. **Immediate Quarantine & Removal**
-   - Use ClamAV or another security tool to remove all detected threats.
-2. **Check for System Compromise**
-   - If the infected drive was connected to an active system, conduct a full security audit.
-3. **Reinstall or Restore Affected Files**
-   - Expiro virus may have infected critical executables; consider restoring from a clean backup.
-4. **Monitor for Unauthorized Activity**
-   - Since backdoors and RATs were found, monitor network activity and change all passwords.
-5. **Secure the System**
-   - Ensure all software is updated, and install a robust antivirus/firewall solution.
-6. **Isolate the Infected Drive**
-   - If possible, avoid connecting the infected drive to other systems until it is fully cleaned.
-
----
-
 ### **Conclusion**
 The scan results indicate a significant infection with multiple malware types, including worms, trojans, backdoors, and viruses. The presence of RATs and backdoors suggests a high risk of remote exploitation. Immediate remediation is necessary to prevent further damage or data compromise.
 
